@@ -1,6 +1,16 @@
 # test_dodow
-vue.JS component and form validator
 
+to test run :
+
+
+      $npm run start
+
+then open :
+
+
+      http://localhost:8080
+
+----------------
 
 Objectifs
  de l’exercice :

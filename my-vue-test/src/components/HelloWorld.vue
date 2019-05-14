@@ -1,5 +1,8 @@
 <template>
-  <div class="hello">
+  <div>
+    <h1><a href="http://localhost:8080/zip-code-form">Lien vers le ZIP-code formulaire</a></h1>
+  </div>
+  <!--<div class="hello"
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
@@ -80,7 +83,7 @@
         </a>
       </li>
     </ul>
-  </div>
+  </div>-->
 </template>
 
 <script>
